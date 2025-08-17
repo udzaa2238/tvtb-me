@@ -1,29 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
-<title>ผู้เฒ่าพเนจร</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta content="IE=edge" http-equiv="X-UA-Compatible">
-<script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
-<script> jwplayer.key = 'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';
-</script>
-<div id="player"></div>
-<script>
-    var playerInstance = jwplayer("player");
+  <meta charset="UTF-8" />
+  <title>Live Stream with Video.js</title>
+  <link href="https://cdn.jsdelivr.net/npm/video.js@7.10.2/dist/video-js.css" rel="stylesheet" />
+  <style>
+    html, body { height: 100%; margin: 0; background: #000; }
 
-    playerInstance.setup({
+    /* กล่องครอบ player เพื่อจัดตำแหน่งลายน้ำ */
+    #player-container {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      background: #000;
+      overflow: hidden;
+    }
 
-        playlist: [{
-"image": "https://xxxxxxxx.dropbox.com/scl/fi/563mscujyrmynb03qvwtp/wandering-oldman-logo.png?rlkey=a6v56e1rgt96luwlzqe2ofbfi&dl=1",
-"sources": [
-{
-"default": true,
-"type": "hls",
-"file": 'https://udzaa2238.github.io/tvtb-me/zoomoo.m3u8',
-"label": "1"
-}
-]
-}],
-</script>
-    <span style='position:absolute;bottom:10px;right:10px;font-size: 15px; font-weight: bold;color: #ff0;'><em>ผู้เฒ่าพเนจร</em></span>
-	</html>
+    /* ตัว player กินเต็มกล่อง */
+    #player {
+      width: 100%;
+      height: 100%;
+      background: #000;
+    }
+
+    /* ลายน้ำมุมขวาล่าง */
+    .watermark {
+      position: absolute;
+      bottom: 6px;
+      right: 9px;
+      padding: 6px 10px;
+      border-radius: 6px;
+      background: rgba(0,0,0,0.35);
+      color: #FFFF00;
+      font-size: 16px;
+      line-height: 1;
+      z-index: 9999;
+      pointer-events: none; /* ไม่บังการคลิกปุ่มควบคุมของ video.js */
+      text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+    }
+  </style>
+</head>
+<body>
+  <div id="player-container">
+    <video id="player" class="video-js vjs-default-skin" controls></video>
+    <div class="watermark">ผู้เฒ่าพเนจร</div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/video.js@7.10.2/dist/video.js"></script>
+  <script>
+    var player = videojs('player', {
+      techOrder: ['html5'],
+      sources: [{
+        type: 'application/x-mpegURL',
+        src: 'https://udzaa2238.github.io/tvtb-me/zoomoo.m3u8'
+      }]
+    });
+  </script>
+</body>
+</html>
