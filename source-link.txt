@@ -1,0 +1,133 @@
+https://wandering-oldman.github.io/intersport-football/
+
+Hub Premier 1
+http://cf.go4k.me:80/play/live.php?mac=00:1A:79:78:7D:4B&stream=620786&extension=m3u8&play_token=f0UuSNuGqZ
+
+Hub Premier 2
+http://cf.go4k.me:80/play/live.php?mac=00:1A:79:78:7D:4B&stream=620785&extension=m3u8&play_token=NlLQDY3YvK
+
+Hub Premier 3
+http://cf.go4k.me:80/play/live.php?mac=00:1A:79:78:7D:4B&stream=620784&extension=m3u8&play_token=DT6ZVpduOh
+
+Hub Premier 4
+http://cf.go4k.me:80/play/live.php?mac=00:1A:79:78:7D:4B&stream=620783&extension=m3u8&play_token=KnJY9LzNxA
+
+Golf Pass
+http://cf.go4k.me:80/play/live.php?mac=00:1A:79:78:7D:4B&stream=605729&extension=m3u8&play_token=ykENTlLazi
+
+Sky Sport Golf (FHD)
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=30497&extension=m3u8&play_token=ZCYoIWTxNl
+
+Champions Leaque Hightlight
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694308&extension=m3u8&play_token=XwI7Z3G2ex
+
+Champions Leaque Replay 1
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694307&extension=m3u8&play_token=66pvOMQoTe
+
+Champions Leaque Replay 2
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694306&extension=m3u8&play_token=SiE7ZoUEUE
+
+Champions Leaque Replay 3
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694305&extension=m3u8&play_token=LmRx4YlChC
+
+Champions Leaque Replay 4
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694304&extension=m3u8&play_token=xLIyD01GLp
+
+Champions Leaque Replay 5
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694303&extension=m3u8&play_token=0hrxsMDK7x
+
+Champions Leaque Replay 6
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694302&extension=m3u8&play_token=CA6G034gLS
+
+Champions Leaque Replay 7
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694302&extension=m3u8&play_token=CA6G034gLS
+
+Champions Leaque Replay  8
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694301&extension=m3u8&play_token=CA6G034gLS
+
+
+Champions Leaque Replay  9
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694300&extension=m3u8&play_token=CA6G034gLS
+
+
+Champions Leaque Replay 10
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1694299&extension=m3u8&play_token=CA6G034gLS
+
+
+Premier Leaque Hightlight
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038923&extension=m3u8&play_token=6Fi2Zh7CS4
+
+Premier Leaque Replay 1
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038922&extension=m3u8&play_token=05yV1jtKIN
+
+Premier Leaque Replay 2
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038921&extension=m3u8&play_token=Fe9o4nV5Qr
+
+Premier Leaque Replay  3 http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038920&extension=m3u8&play_token=UWCmj1kqQw 
+
+Premier Leaque Replay 4
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038919&extension=m3u8&play_token=p22Ip7cSwM
+
+Premier Leaque Replay  5
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038918&extension=m3u8&play_token=bRgtbyp1i0
+
+Premier Leaque Replay  6
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038917&extension=m3u8&play_token=XFhs4UI0jt
+
+Premier Leaque Replay  7
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038916&extension=m3u8&play_token=TEPK8UcqqS 
+
+Premier Leaque Replay 8
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038915&extension=m3u8&play_token=H5t31Lb0g3
+
+Premier Leaque Replay 9
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038914&extension=m3u8&play_token=H5t31Lb0g3
+
+Premier Leaque Replay 10
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038913&extension=m3u8&play_token=H5t31Lb0g3
+
+ChampionShip Hightlight
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038910&extension=m3u8&play_token=hlvAbuTb8p
+
+ChampionShip  Replay 1
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038909&extension=m3u8&play_token=N8iStVfFr1
+
+ChampionShip  Replay 2
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038908&extension=m3u8&play_token=yIVUwadz3T
+
+ChampionShip  Replay 3
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038907&extension=m3u8&play_token=7ewHwzOcDo
+
+ChampionShip  Replay 4 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038906&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 5 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038905&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 6 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038904&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 7 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038903&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 8 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038902&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 9 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038901&extension=m3u8&play_token=ymNaPRWLzT
+
+ChampionShip  Replay 10 
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1038900&extension=m3u8&play_token=K0VVbjo13K
+
+EPL-4K-1
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1579368&extension=ts&play_token=g10Gejldfs
+
+EPL-4K-2
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=1579367&extension=ts&play_token=YuF3AlztxR
+
+EPL-Arsenal
+http://185.243.7.141:80/play/live.php?mac=00:1B:79:3F:26:98&stream=988368&extension=ts&play_token=UFBbNDgsAq
+
+
+
+
