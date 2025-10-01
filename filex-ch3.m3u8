@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://filex.me:8080/live/03317143343/abdulsalam/302696.m3u8
+http://hornetstv.de:8080/play/live.php?mac=00:1A:79:07:C1:14&stream=834718&extension=m3u8&play_token=
 
